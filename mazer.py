@@ -5,7 +5,7 @@ import shutil
 
 mazedir = "maze"
 maze_depth = 1364 
-maze_link = "../maze_link"
+maze_link = "/maze_link"
 maze_paths = 19
 
 print(f'[+] Making maze in {os.path.abspath(mazedir)}')
